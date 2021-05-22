@@ -1,0 +1,44 @@
+/** @format */
+
+.Container {
+  position: absolute;
+
+  background-color: white;
+  top: 20%;
+  padding: 40px;
+}
+.img {
+  display: flex;
+  justify-content: center;
+}
+.text {
+  text-align: center;
+}
+
+.Backdrop {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.btn {
+  margin-top: 20px;
+  border: none;
+  padding: 10px 0;
+  color: #00b894;
+  width: 100%;
+  font-size: 14px;
+  background: none;
+  border: 2px solid #00b894;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #00b894;
+  color: white;
+}

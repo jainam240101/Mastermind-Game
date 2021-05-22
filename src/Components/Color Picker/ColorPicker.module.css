@@ -1,0 +1,32 @@
+/** @format */
+
+.circle {
+  margin-bottom: 10px;
+  width: 40px;
+  cursor: pointer;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.active {
+  border: 1px solid gray;
+}
+
+.yellow {
+  background-color: #ffb400;
+}
+.red {
+  background-color: #ff5a5f;
+}
+.green {
+  background-color: #8ce071;
+}
+.lightBlue {
+  background-color: #00d1c1;
+}
+.teal {
+  background-color: #007a87;
+}
+.purple {
+  background-color: #7b0051;
+}

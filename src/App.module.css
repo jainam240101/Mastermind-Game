@@ -1,0 +1,14 @@
+/** @format */
+
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  background-color: #f4f4f4;
+  padding-top: 1%;
+}
+.Board {
+  margin-top: 3%;
+  display: flex;
+}
